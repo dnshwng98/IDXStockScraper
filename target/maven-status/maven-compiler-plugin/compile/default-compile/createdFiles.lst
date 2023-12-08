@@ -1,0 +1,8 @@
+com\example\idxstockscraper\model\DailyStockTransaction.class
+com\example\idxstockscraper\service\RepositoryService.class
+com\example\idxstockscraper\util\Util.class
+com\example\idxstockscraper\service\RepositoryService$1.class
+com\example\idxstockscraper\model\Stock.class
+com\example\idxstockscraper\controller\ScraperController.class
+com\example\idxstockscraper\IdxStockScraperApplication.class
+com\example\idxstockscraper\service\ScraperService.class
